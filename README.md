@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./logo.png" alt="Makisig Cipher — gold emblem" width="440">
-</p>
-
 <h1 align="center">Makisig Cipher</h1>
 
 <p align="center">
