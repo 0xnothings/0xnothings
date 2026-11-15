@@ -1,4 +1,8 @@
-<h1 align="center">Makisig Cipher</h1>
+<p align="center">
+  <img src="./logo.png" alt="Makisig Cipher — gold emblem" width="340">
+</p>
+
+<h1 align="center">MAKISIG CIPHER</h1>
 
 <p align="center">
   <strong>Developer · Builder · Curious mind</strong><br>
