@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Makisig Cipher — gold emblem" width="340">
+  <img src="./logo.png" alt="Makisig Cipher — gold emblem" width="240">
 </p>
 
 <h1 align="center">MAKISIG CIPHER</h1>
